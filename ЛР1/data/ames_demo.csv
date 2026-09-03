@@ -1,0 +1,21 @@
+Id,MSSubClass,LotFrontage,LotArea,Street,Alley,LotShape,Utilities,LotConfig,Neighborhood,OverallQual,OverallCond,YearBuilt,YearRemodAdd,RoofStyle,Exterior1st,MasVnrType,MasVnrArea,Foundation,BsmtQual,BsmtFinSF1,TotalBsmtSF,GrLivArea,FullBath,BedroomAbvGr,KitchenQual,GarageType,GarageArea,SalePrice
+1,60,65,8450,Pave,,Reg,AllPub,Inside,CollgCr,7,5,2003,2003,Gable,VinylSd,BrkFace,196,PConc,Gd,706,856,1710,2,3,Gd,Attchd,548,208500
+2,20,80,9600,Pave,,Reg,AllPub,FR2,Veenker,6,8,1976,1976,Gable,MetalSd,None,0,CBlock,Gd,978,1262,1262,2,3,TA,Attchd,460,181500
+3,60,68,11250,Pave,,IR1,AllPub,Inside,CollgCr,7,5,2001,2002,Gable,VinylSd,BrkFace,162,PConc,Gd,486,920,1786,2,3,Gd,Attchd,608,223500
+4,70,60,9550,Pave,,IR1,AllPub,Corner,Crawfor,7,5,1915,1970,Gable,Wd Sdng,None,0,BrkTil,TA,216,756,1717,1,3,Gd,Detchd,642,140000
+5,60,84,14260,Pave,,IR1,AllPub,FR2,NoRidge,8,5,2000,2000,Gable,VinylSd,BrkFace,350,PConc,Gd,655,1145,2198,2,4,Gd,Attchd,836,250000
+6,50,85,14115,Pave,,IR1,AllPub,Inside,Mitchel,5,5,1993,1995,Gable,VinylSd,None,0,Wood,Gd,732,796,1362,1,1,TA,Attchd,480,143000
+7,20,75,10084,Pave,,Reg,AllPub,Inside,Somerst,8,5,2004,2005,Gable,VinylSd,Stone,186,PConc,Ex,1369,1686,1694,2,3,Gd,Attchd,636,307000
+8,60,,10382,Pave,,IR1,AllPub,Corner,NWAmes,7,6,1973,1973,Gable,HdBoard,Stone,240,CBlock,Gd,859,1107,2090,2,3,TA,Attchd,484,200000
+9,50,51,6120,Pave,,Reg,AllPub,Inside,OldTown,7,5,1931,1950,Gable,BrkTil,None,0,BrkTil,TA,0,952,1774,2,2,TA,Detchd,468,129900
+10,190,50,7420,Pave,,Reg,AllPub,Corner,BrkSide,5,6,1939,1950,Gable,Plywood,None,0,BrkTil,TA,851,991,1077,1,2,TA,Attchd,205,118000
+11,20,70,11200,Pave,,Reg,AllPub,Inside,Sawyer,5,5,1965,1965,Gable,MetalSd,None,0,CBlock,TA,906,1022,1040,1,3,TA,Attchd,384,129500
+12,60,85,11924,Pave,,IR1,AllPub,Inside,NridgHt,9,5,2005,2005,Hip,VinylSd,BrkFace,286,PConc,Ex,998,1280,2340,3,4,Ex,Attchd,736,345000
+13,20,,12968,Pave,,IR1,AllPub,Inside,Sawyer,5,6,1962,1962,Gable,Wd Sdng,None,0,CBlock,TA,737,1595,912,1,2,TA,Attchd,352,144000
+14,20,91,10652,Pave,,IR1,AllPub,Inside,NAmes,7,5,2006,2007,Gable,VinylSd,BrkFace,306,PConc,Gd,1595,1616,2340,3,4,Ex,Attchd,840,279500
+15,20,51,10920,Pave,,IR1,AllPub,Corner,BrkSide,6,5,1960,1960,Gable,Plywood,None,0,CBlock,TA,0,1028,1078,1,2,TA,Attchd,200,157000
+16,45,80,6120,Pave,,Reg,AllPub,Inside,Sawyer,7,8,1929,1950,Gable,BrkTil,None,0,BrkTil,Gd,468,1158,1506,1,3,Gd,Detchd,384,132000
+17,20,81,9320,Pave,,Reg,AllPub,Corner,NAmes,6,7,1970,1970,Gable,CemntBd,None,0,CBlock,TA,923,1444,1795,2,3,TA,Attchd,506,149000
+18,90,74,9200,Pave,,Reg,AllPub,Inside,NAmes,4,5,1967,1967,Gable,Plywood,None,0,CBlock,TA,1065,1065,1060,1,2,TA,Detchd,576,90000
+19,20,,7500,Pave,,Reg,AllPub,Inside,NAmes,5,5,1958,1958,Gable,Wd Sdng,None,0,CBlock,TA,791,1494,1060,1,2,TA,Attchd,480,159000
+20,20,63,7500,Pave,,Reg,AllPub,Inside,NAmes,5,7,1965,1965,Gable,Plywood,None,0,CBlock,TA,616,1253,1060,1,2,TA,Attchd,516,139000
