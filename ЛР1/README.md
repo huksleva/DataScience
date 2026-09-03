@@ -1,4 +1,4 @@
-<a href=\"https://colab.research.google.com/github/huksleva/DataScience/blob/main/%D0%9B%D0%A01/notebooks/LR1_Ames_SelfStudy.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huksleva/DataScience/blob/main/ЛР1/notebooks/LR1_Ames_SelfStudy.ipynb)
 
 # ЛР1 — Ames Housing
 
