@@ -37,7 +37,7 @@ LR1_Ames/
 Windows PowerShell:
 
 ```powershell
-cd ЛР1
+cd lab1
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 pip install -e .
@@ -46,7 +46,7 @@ pip install -e .
 Linux/macOS:
 
 ```bash
-cd ЛР1
+cd lab1
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -e .
