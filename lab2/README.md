@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/github/huksleva/DataScience/blob/main/lab2/linear-algebra-lab_completed.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huksleva/DataScience/blob/main/lab2/linear-algebra-lab_completed.ipynb)
 
 # Лабораторная работа №2 — Линейная алгебра
 
