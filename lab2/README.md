@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/github/huksleva/DataScience/blob/main/lab2/linear-algebra-lab_completed.ipynb)
+
 # Лабораторная работа №2 — Линейная алгебра
 
 Лабораторная работа посвящена применению линейной алгебры для работы с векторами, матрицами и данными.
@@ -24,7 +26,7 @@
 
 ```text
 lab2/
-├── linear-algebra-lab(2)_completed.ipynb
+├── linear-algebra-lab(2)_no_images.ipynb
 ├── README.md
 └── pyproject.toml
 ```
@@ -67,7 +69,7 @@ jupyter notebook
 После запуска открыть файл:
 
 ```text
-linear-algebra-lab(2)_completed.ipynb
+linear-algebra-lab(2)_no_images.ipynb
 ```
 
 Ячейки ноутбука рекомендуется выполнять сверху вниз.
