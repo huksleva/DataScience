@@ -40,3 +40,6 @@
 | `hour.csv` | `e03de4ee4ef4dc376ac6e04bf829673c6269e8eba5c60fa121640fa2f829504f` |
 | `day.csv` | `a6bcf826782d3c0fbfdcbeead17cd0884185a0dafe8ff10cd48a874ee7ba18be` |
 | `Readme.txt` | `b92c8628622948bf0828c43a1b315d1517c3d7fd63654730d0dea379b8e88175` |
+
+Git нормализует окончания строк CSV с CRLF на LF при публикации. В Colab
+ноутбуки восстанавливают CRLF перед сверкой с этими суммами из исходного архива.
