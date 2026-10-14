@@ -53,7 +53,7 @@ pip install -e .
 Linux/macOS:
 
 ```bash
-cd 'Lab 4'
+cd 'lab4'
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -e .
