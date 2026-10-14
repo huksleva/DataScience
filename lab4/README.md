@@ -34,6 +34,7 @@ lab4/
 │   └── statistics-lab.pdf
 ├── requirements-validated.txt
 ├── pyproject.toml
+├── .gitignore
 └── README.md
 ```
 
