@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "probability-statistics-lab4"
+version = "1.0.0"
+description = "Лабораторная работа №4 по теории вероятностей и статистике"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26",
+    "pandas>=2.1",
+    "matplotlib>=3.9",
+    "scipy>=1.11",
+    "jupyterlab>=4.0",
+    "ipykernel>=6.25",
+]
+
+[tool.setuptools]
+py-modules = []
