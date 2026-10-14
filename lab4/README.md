@@ -1,6 +1,6 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huksleva/DataScience/blob/main/Lab%204/probability-lab.ipynb) **Вероятность**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huksleva/DataScience/blob/main/lab4/probability-lab.ipynb) **Вероятность**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huksleva/DataScience/blob/main/Lab%204/statistics-lab.ipynb) **Статистика**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huksleva/DataScience/blob/main/lab4/statistics-lab.ipynb) **Статистика**
 
 # Лабораторная работа №4 — Теория вероятностей и статистика
 
@@ -17,7 +17,7 @@
 ## Структура проекта
 
 ```text
-Lab 4/
+lab4/
 ├── probability-lab.ipynb
 ├── statistics-lab.ipynb
 ├── data/
@@ -44,7 +44,7 @@ Lab 4/
 Windows PowerShell:
 
 ```powershell
-cd 'Lab 4'
+cd 'lab4'
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 pip install -e .
@@ -63,7 +63,7 @@ pip install -e .
 
 ## Запуск
 
-Запустите Jupyter **из каталога `Lab 4`**:
+Запустите Jupyter **из каталога `lab4`**:
 
 ```bash
 jupyter lab
