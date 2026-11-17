@@ -1,3 +1,5 @@
+Разведывательный анализ данных (EDA) размещён в [отдельном каталоге](eda/README.md).
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huksleva/DataScience/blob/main/lab4/probability-lab.ipynb) **Вероятность**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huksleva/DataScience/blob/main/lab4/statistics-lab.ipynb) **Статистика**
