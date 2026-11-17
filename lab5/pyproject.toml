@@ -3,9 +3,9 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "probability-statistics-lab4"
+name = "probability-statistics-lab5"
 version = "1.0.0"
-description = "Лабораторная работа №4 по теории вероятностей и статистике"
+description = "Лабораторная работа №5 по теории вероятностей и статистике"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
